@@ -3,7 +3,7 @@
   "displayName": "Kuro Sakura",
   "publisher": "cnrxad",
   "description": "cnrxad's dark theme with elegant neon sakura colors.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.80.0"
   },
