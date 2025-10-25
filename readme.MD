@@ -1,7 +1,7 @@
 # [Kuro Sakura VSCode Theme](https://marketplace.visualstudio.com/items?itemName=cnrxad.kuro-sakura) (Beta 0.0.2)
 
 Theme Name: Kuro Sakura<br>
-Original Author: [[cnrxad](https://github.com/cnrxad)]
+Original Author: [cnrxad](https://github.com/cnrxad)
 
 # Install 
 [![Rating](https://vsmarketplacebadges.dev/rating-star/cnrxad.kuro-sakura.png)](https://marketplace.visualstudio.com/items?itemName=cnrxad.kuro-sakura)
