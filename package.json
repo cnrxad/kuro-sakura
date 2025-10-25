@@ -1,0 +1,35 @@
+{
+  "name": "kuro-sakura",
+  "displayName": "Kuro Sakura",
+  "publisher": "cnrxad",
+  "description": "cnrxad's dark theme with elegant neon sakura colors.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kuro Sakura",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kuro-Sakura-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cnrxad/kuro-sakura"
+  },
+  "icon": "icon.png",
+  "keywords": [
+    "theme",
+    "dark",
+    "neon",
+    "sakura",
+    "vscode-theme"
+  ],
+  "license": "MIT"
+}
