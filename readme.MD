@@ -11,6 +11,7 @@ Original Author: [[cnrxad](https://github.com/cnrxad)]
 ## Sponsors
 [Become a sponsor!](mailto:cnrxad@gmail.com?subject=Kuro%20Sakura%20Sponsor%20Request)
 
+### We are looking for a logo designer!! 
 <br>
 
 # Description
