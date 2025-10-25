@@ -1,7 +1,7 @@
 # Kuro Sakura VSCode Theme
 
 Theme Name: Kuro Sakura
-Original Author: cnrxad
+Original Author: [[cnrxad](https://github.com/cnrxad)]
 
 # Description
 
