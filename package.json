@@ -1,9 +1,9 @@
 {
-  "name": "kuro-sakura",
-  "displayName": "Kuro Sakura",
+  "name": "sakura-x",
+  "displayName": "Sakura X",
   "publisher": "cnrxad",
-  "description": "cnrxad's dark theme with elegant neon sakura colors.",
-  "version": "0.1.0",
+  "description": "A refined theme family that balances elegance and contrast across both dark and light modes. Inspired by the harmony between shadow and light, Sakura combines subtle pastels, vivid neons, and deep neutral tones to create a comfortable, expressive coding experience in any environment.",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -13,23 +13,30 @@
   "contributes": {
     "themes": [
       {
-        "label": "Kuro Sakura",
+        "label": "Kuro Sakura X (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/Kuro-Sakura-color-theme.json"
+      },
+      {
+        "label": "Shiro Sakura X (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/Shiro-Sakura-color-theme.json"
       }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cnrxad/kuro-sakura"
+    "url": "https://github.com/cnrxad/sakura"
   },
   "keywords": [
     "theme",
     "dark",
-    "neon",
+    "light",
     "sakura",
+    "sakura-x",
     "vscode-theme",
     "kuro-sakura",
+    "shiro-sakura",
     "customization"
   ],
   "license": "MIT"
