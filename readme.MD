@@ -1,4 +1,4 @@
-# [Sakura X VSCode Theme](https://marketplace.visualstudio.com/items?itemName=cnrxad.sakura-x) (Beta 0.0.3)
+# [Sakura X VSCode Theme](https://marketplace.visualstudio.com/items?itemName=cnrxad.sakura-x) (Beta 0.0.5)
 
 Theme Family Name: Sakura X<br>
 Original Author: [cnrxad](https://github.com/cnrxad)
