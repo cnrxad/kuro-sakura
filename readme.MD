@@ -1,4 +1,4 @@
-# [Sakura X VSCode Theme](https://marketplace.visualstudio.com/items?itemName=cnrxad.sakura-x) (Beta 0.0.1)
+# [Sakura X VSCode Theme](https://marketplace.visualstudio.com/items?itemName=cnrxad.sakura-x) (Beta 0.0.2)
 
 Theme Family Name: Sakura X<br>
 Original Author: [cnrxad](https://github.com/cnrxad)
@@ -11,7 +11,7 @@ Original Author: [cnrxad](https://github.com/cnrxad)
 ## Sponsors
 [Become a sponsor!](mailto:cnrxad@gmail.com?subject=Sakura%20X%20Sponsor%20Request)
 
-### We are looking for a logo designer!! 
+### We are looking for a logo designer!
 <br>
 
 # Description
