@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>Version:</b> Beta 0.0.6 · <b>Theme Family:</b> Sakura X<br>
+  <b>Version:</b> Beta 0.0.7 · <b>Theme Family:</b> Sakura X<br>
   <b>Original Author:</b> <a href="https://github.com/cnrxad">cnrxad</a>
 </p>
 
