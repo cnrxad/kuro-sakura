@@ -3,7 +3,7 @@
   "displayName": "Sakura X",
   "publisher": "cnrxad",
   "description": "A refined theme family that balances elegance and contrast across both dark and light modes. Inspired by the harmony between shadow and light, Sakura combines subtle pastels, vivid neons, and deep neutral tones to create a comfortable, expressive coding experience in any environment.",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.80.0"
   },
